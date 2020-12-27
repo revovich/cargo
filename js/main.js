@@ -193,7 +193,7 @@ jQuery(document).ready(function($) {
 	        	margin: 30,
 	        	nav: false,
 	        	responsiveRefreshRate: 10,
-	          items: 1
+	          items: 2
 	        },
 	        992:{
 	        	margin: 30,
